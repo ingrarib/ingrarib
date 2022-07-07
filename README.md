@@ -2,6 +2,7 @@
 
 - Tenho 24 anos e estou estudando para me tornar uma desenvolvedora FRONTEND.
 - Estou aprendendo HTML, CSS e JavaScript.
+“O que não te desafia, não te transforma!” <3
 <br>
 <div align="center">
    <a href="https://instagram.com/ingrarcm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
