@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/ingra-ribeiro-de-morais/"><i>Ingra Ribeiro</i></a> 😃️</h1>
-  <p align="center">Tenho 24 anos, estudo Sistemas para Internet na UniCesumar e no momento estou realizando o Bootcamp Santander Code Girls!
+  <p align="center">Tenho 24 anos, estudo <b>Sistemas para Internet na UniCesumar</b> e no momento estou realizando o <b>Bootcamp Santander Code Girls</b>!
   </a><br>
   <p align="center">Possuo conhecimentos em HTML, CSS, JavaScript e estou começando meus estudos em Java. Além de ter conhecimento em Git!</h2>
 </div>
