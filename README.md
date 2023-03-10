@@ -8,12 +8,6 @@
 </div>
 
 
-<div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ingrarib&theme=codeSTACKr&hide_border=false&&layout=compact"/>
-  </a>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrarib&theme=codeSTACKr&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
