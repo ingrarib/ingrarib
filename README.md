@@ -8,9 +8,10 @@
 </div>
 
 <div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ingrarib&theme=aura&hide_border=false&&layout=compact"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ingrarib&count_private=true&theme=aura&hide_border=true&&layout=compact"/>
   </a>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrarib&theme=aura&hide_border=false&&hide_progress=true"/>
+   
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=aura&hide_border=true"/>
   </a>
 </div>
 
