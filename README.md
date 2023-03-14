@@ -7,6 +7,12 @@
   <p align="center"><i>💜 "O que não te desafia, não te transforma" 💜</i></h2>
 </div>
 
+<div align="center">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ingrarib&theme=aura&hide_border=false&&layout=compact"/>
+  </a>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrarib&theme=aura&hide_border=false&&hide_progress=true"/>
+  </a>
+</div>
 
 
 <div align="center" valign="top"><br>
