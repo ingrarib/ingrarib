@@ -3,10 +3,8 @@
   <p align="center">Tenho 25 anos, estudo <b>Sistemas para Internet na UniCesumar</b> e no momento estou realizando estágio na área de Engenharia de dados na Compass UOL!
 
 <div align="center">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=ingrarib&count_private=true&theme=aura&hide_border=true&&layout=compact"/>
-  </a>
    
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=aura&hide_border=true"/>
+   <img height="135em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=aura&hide_border=true"/>
   </a>
 </div>
 
