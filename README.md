@@ -4,7 +4,7 @@
 
 <div align="center">
    
-   <img height="135em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=aura&hide_border=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=aura&hide_border=true"/>
   </a>
 </div>
 
