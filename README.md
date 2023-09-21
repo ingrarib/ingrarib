@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/ingra-ribeiro-de-morais/"><i>Ingra Ribeiro</i></a> 😃️</h1>
-  <p align="center">Tenho 25 anos, estudo <b>Sistemas para Internet na UniCesumar</b> e no momento estou realizando estágio na área de Engenharia de dados na Compass UOL!
+  <p align="center">Tenho 25 anos, estudo <b>Sistemas para Internet na UniCesumar</b> e minha aspiração é me tornar uma profissional na área de dados, e estou comprometida em dedicar meu tempo e energia para desenvolver as habilidades necessárias e contribuir de maneira significativa para este campo em constante evolução. 
 
 <div align="center">
    
