@@ -4,7 +4,7 @@
 
 <div align="center">
    
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ingraribwt&theme=calm&hide_border=true&layout=compact"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrarib&theme=calm&langs_count=7&layout=compact"/>
   </a>
 </div>
 
