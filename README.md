@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/ingra-ribeiro-de-morais/"><i>Ingra Ribeiro</i></a> 😃️</h1>
-  <p align="center">Tenho 25 anos, estudo <b>Sistemas para Internet na UniCesumar</b> e minha aspiração é me tornar uma profissional na área de dados, e estou comprometida em dedicar meu tempo e energia para desenvolver as habilidades necessárias e contribuir de maneira significativa para este campo em constante evolução. 
+  <h1 align="center">Olá, tudo bem? Meu nome é <a href="https://www.linkedin.com/in/ingrarib/"><i>Ingra Ribeiro</i></a> 😃️</h1>
+  <p align="center"> 
 
 <div align="center">
    
@@ -30,6 +30,3 @@
   <p align="center"><i>💜 "O que não te desafia, não te transforma" 💜</i></h2>
 </div>
   
- <div align="center">
-     <img src="https://komarev.com/ghpvc/?username=ingrarib&color=blueviolet&style=plastic"/>
-  </a>
